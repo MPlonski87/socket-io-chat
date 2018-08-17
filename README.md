@@ -1,14 +1,9 @@
 # Socket-io-chat.jpg
 
-![alt text]()
-
+![alt text](https://raw.githubusercontent.com/MPlonski87/socket-io-chat/master/socket-io-chat.jpg)
 
 ## Description
 A simple Socket.io Chat application built with Node.js and Bootstrap. Test it: [https://dev-socket-io-chat.herokuapp.com/](https://dev-socket-io-chat.herokuapp.com/)
-
-## Features
-- watch project including livereload with browsersynch and compile sass to css to via gulp
-- build project with minification, concatenation, prefixing, uglifying ...
 
 ## Requirements
 - Node.js (https://nodejs.org/) including npm (https://www.npmjs.com/)
